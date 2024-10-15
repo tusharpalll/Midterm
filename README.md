@@ -1,4 +1,5 @@
 # midtermtushar
+
 # Cats vs Dogs: The Great Debate
 
 ## Introduction
@@ -15,6 +16,11 @@ This repository explores the age-old debate of cats versus dogs as pets. Both an
 
 
 
+- **Trainable:** Many dogs can learn complex commands and tricks[4].
+
+
+
 ## Conclusion
 Ultimately, the choice between a cat and a dog depends on individual preferences, lifestyle, and living situation. Both animals offer unique benefits and can make wonderful pets for the right owner.
+
 
