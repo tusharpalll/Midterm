@@ -14,10 +14,8 @@ This repository explores the age-old debate of cats versus dogs as pets. Both an
 - **Loyal and affectionate:** Dogs often form strong bonds with their owners[3].
 - **Exercise partners:** Dogs encourage an active lifestyle through walks and play[3].
 - **Trainable:** Many dogs can learn complex commands and tricks[4].
-- **Varied sizes and breeds:** There's a dog breed for every lifestyle and preference[4].
+
 
 ## Conclusion
 Ultimately, the choice between a cat and a dog depends on individual preferences, lifestyle, and living situation. Both animals offer unique benefits and can make wonderful pets for the right owner.
-
-![cats vs dogs](catsvsdogs.jpg)
 
